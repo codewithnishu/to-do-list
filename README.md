@@ -43,19 +43,19 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## React Based To-do list App
 
 ### Home-Screen
-![Home-Screen](../images/Home-Screen.png)
+![Home-Screen](./images/Home-Screen.png)
 
 ### Add-Items
-![Add-Items](../images/Add-Items.png)
+![Add-Items](./images/Add-Items.png)
 
 ### Delete-Item
-![Delete-Item](../images/Delete-Item.png)
+![Delete-Item](./images/Delete-Item.png)
 
 ### Edit-Item
-![Edit-Item](../images/Edit-Item.png)
+![Edit-Item](./images/Edit-Item.png)
 
 ### Edit-Item2
-![Edit-Item2](../images/Edit-Item2.png)
+![Edit-Item2](./images/Edit-Item2.png)
 
 ### Removeall
-![Removeall](../images/Removeall.png)
+![Removeall](./images/Removeall.png)
